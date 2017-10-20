@@ -22,7 +22,7 @@
         "languages": [{
             "id": "rsys",
             "aliases": ["Responsys", "rsys"],
-            "extensions": [".rsys", ".htm", ".html"],
+            "extensions": [".rsys"],
             "configuration": "./language-configuration.json"
         }],
         "grammars": [{
