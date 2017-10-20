@@ -4,6 +4,10 @@ Syntax highlighting for Oracle Responsys Built-In Function on VSCode.
 
 ## Release Notes
 
-### 1.0.0
+### 0.0.2
+
+Removed .htm and .html file extensions from configuration.
+
+### 0.0.1
 
 Initial release.
