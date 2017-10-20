@@ -3,7 +3,8 @@
     "displayName": "Responsys Built-In function",
     "description": "Syntax highlighting for Oracle Responsys Built-In Function on VSCode",
     "version": "0.0.1",
-    "publisher": "Lucas Dasso<dassolucas@c238.com.ar>",
+    "author": "Lucas Dasso<dassolucas@c238.com.ar>",
+    "publisher": "dassolucas",
     "repository": {
         "type": "git",
         "url": "https://github.com/Lukas238/vscode-responsys-built-in-function"
