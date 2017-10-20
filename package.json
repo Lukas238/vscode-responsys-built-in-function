@@ -2,7 +2,7 @@
     "name": "rsys",
     "displayName": "Responsys Built-In function",
     "description": "Syntax highlighting for Oracle Responsys Built-In Function on VSCode",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "author": "Lucas Dasso<dassolucas@c238.com.ar>",
     "publisher": "dassolucas",
     "repository": {
@@ -18,6 +18,11 @@
     "categories": [
         "Languages"
     ],
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#F1C40F",
+        "theme": "light"
+    },
     "contributes": {
         "languages": [
             {
