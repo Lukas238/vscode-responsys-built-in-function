@@ -2,7 +2,7 @@
     "name": "rsys",
     "displayName": "Responsys Built-In function",
     "description": "Syntax highlighting for Oracle Responsys Built-In Function on VSCode",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "author": "Lucas Dasso<dassolucas@c238.com.ar>",
     "publisher": "dassolucas",
     "repository": {
@@ -19,16 +19,25 @@
         "Languages"
     ],
     "contributes": {
-        "languages": [{
-            "id": "rsys",
-            "aliases": ["Responsys", "rsys"],
-            "extensions": [".rsys"],
-            "configuration": "./language-configuration.json"
-        }],
-        "grammars": [{
-            "language": "rsys",
-            "scopeName": "source.responsys_builtin_function",
-            "path": "./syntaxes/responsys_builtin_function.tmLanguage"
-        }]
+        "languages": [
+            {
+                "id": "rsys",
+                "aliases": [
+                    "Responsys",
+                    "rsys"
+                ],
+                "extensions": [
+                    ".rsys"
+                ],
+                "configuration": "./language-configuration.json"
+            }
+        ],
+        "grammars": [
+            {
+                "language": "rsys",
+                "scopeName": "source.responsys_builtin_function",
+                "path": "./syntaxes/responsys_builtin_function.tmLanguage"
+            }
+        ]
     }
 }
